@@ -11,11 +11,14 @@
 
 2. Run the program, supplying an IATA payload as the only argument. 
 
+```
   java BarcodeTest "M1CUSTOMER/VALUED     EABC1234ABCABCCap12616000F12340000106162-4885-c5133196162-4885-^1b2gvqDG+ULxXUts5CTMLtzmhVEpcSwKaRHiH2zI2vEmHnwitaUPB0bk3Ca9UT2+CdH04762L6ZyusA\nKlOwPk3QJtNWod/X2UViagyXdyVltXQOfb1XuEg0am6gvEVchG5ODgGzF9kzuJPg/HC2+qaovQ==\np6U3YcivxJupt875VH92qw=="
 M1CUSTOMER/VALUED     EABC1234ABCABCCap12616000F12340000106162-4885-c5133196162-4885-^1b2gvqDG+ULxXUts5CTMLtzmhVEpcSwKaRHiH2zI2vEmHnwitaUPB0bk3Ca9UT2+CdH04762L6ZyusA\nKlOwPk3QJtNWod/X2UViagyXdyVltXQOfb1XuEg0am6gvEVchG5ODgGzF9kzuJPg/HC2+qaovQ==\np6U3YcivxJupt875VH92qw=="
+```
 
 3. Enjoy the output!
 
+```
   Format Code: M
   Number of Legs: 1
   Passenger Name: CUSTOMER/VALUED
@@ -37,3 +40,4 @@ M1CUSTOMER/VALUED     EABC1234ABCABCCap12616000F12340000106162-4885-c5133196162-
   Length of Sec. Data: 16
   Type of Sec. Data: 6
   Security Data: 2-4885-^1b2gvqDG+ULxXUts5CTMLtzmhVEpcSwKaRHiH2zI2vEmHnwitaUPB0bk3Ca9UT2+CdH04762L6ZyusA\nKlOwPk3QJtNWod/X2UViagyXdyVltXQOfb1XuEg0am6gvEVchG5ODgGzF9kzuJPg/HC2+qaovQ==\np6U3YcivxJupt875VH92qw==
+```
