@@ -1,6 +1,6 @@
 # IATA Barcode Parser
 # v0.001, 21 March 2015
-# Matthew Grasser <@msgrasser>
+# Mr. Zero <@mr-z-ro>
 
 
 ## Steps
